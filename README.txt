@@ -1,9 +1,5 @@
 Integrated Cipher Menu
 ======================
-Build from this folder:
-    gcc -std=c11 -Wall -Wextra -Wpedantic main.c -o cipher_menu
-Run:
-    ./cipher_menu
 
 Method A: Rotation cipher (original rotationcipher.c)
 Method B: Vigenere cipher (circular linked-list key)
